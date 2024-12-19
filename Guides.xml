@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="40_Gilneas_Leveling.lua"/>
+	<Script file="Danonzo's_Tel'Abim_Bananas.lua"/>
+
+</Ui>

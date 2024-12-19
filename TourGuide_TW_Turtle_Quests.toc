@@ -1,0 +1,15 @@
+## Interface: 11200
+
+## Title: TourGuide |cff7fff7f_TW_|r Turtle Quests
+## Notes: Quests added in Turtle WoW - MYSTERIES OF AZEROTH
+## Author: Lotris
+## Version: 1.0
+## X-Credits: Tekkub
+## X-Category: Quests
+## RequiredDeps: TourGuideVanilla
+## OptionalDeps: Dongle, TomTom
+## DefaultState: enabled
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+Guides.xml
